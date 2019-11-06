@@ -1,0 +1,6 @@
+class aa{
+	public static void main(){
+	
+	}
+
+}
